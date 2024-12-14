@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AnumayRai
+- 👀 I’m interested in exploring the foundational principles of Electronics and Communication Engineering (ECE) while diving into the dynamic challenges of Computer Science and Engineering (CSE). I aim to bridge the gap between these fields, fostering innovation at their intersection.
+- 🌱 I’m currently learning advanced concepts in ECE at PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur, while delving into coding, algorithms, and emerging technologies in Computer Science.
+- 💞️ I’m looking to collaborate on projects that focus on developing impactful technological solutions, especially those that solve real-world problems using a multidisciplinary approach.
+- 📫 How to reach me: You can connect with me via email or professional platforms. (Provide your contact details here.)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a recipient of the prestigious DST Inspire Scholarship by the Government of India, which has fueled my passion for academic excellence and research-driven innovation.
